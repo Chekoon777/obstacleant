@@ -6,7 +6,7 @@ import argparse
 
 import torch
 
-from customant import CustomAntEnv
+from customant.customant import CustomAntEnv
 
 # Create directories to hold models and logs
 model_dir = "models"
